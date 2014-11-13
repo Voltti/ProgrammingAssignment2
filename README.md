@@ -1,3 +1,15 @@
+
+### CacheMatrix
+
+
+Test code:
+
+	 mat1 <- matrix(c(4,3,3,2),2,2)
+	 matC <- makeCachedMatrix(ma1)
+	 inv <- cacheSolve(matC)
+	 inv
+
+---------------
 ### Introduction
 
 This second programming assignment will require you to write an R
